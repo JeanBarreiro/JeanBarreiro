@@ -17,9 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [http://linktr.ee/jeanbarreiro](http://linktr.ee/jeanbarreiro)
 
-- 📫 How to reach me **jeancbarreiro@gmail.com**
-
-- 📄 Know about my experiences [https://jean-barreiro.tiiny.site](https://jean-barreiro.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
