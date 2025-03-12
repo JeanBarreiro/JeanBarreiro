@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/jeanbarreiro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeanbarreiro_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jean-carlos-barreiro-27a9b4147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean-carlos-barreiro-27a9b4147/" height="30" width="40" /></a>
-<a href="https://instagram.com/jeanbarreiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeanbarreiro" height="30" width="40" /></a>
+<a href="https://instagram.com/jankeelol_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeanbarreiro" height="30" width="40" /></a>
 <a href="https://medium.com/@jeanbarreiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jeanbarreiro" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jeanbarreiro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jeanbarreiro_" height="30" width="40" /></a>
 </p>
