@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jean C Barreiro</h1>
+<h1 align="center">Hi 👋, I'm Jean Barreiro</h1>
 <h3 align="center">A passionate full stack developer from Puerto Rico</h3>
 <img align="right" alt="Coding" width="400" src=https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif>
 
